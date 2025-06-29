@@ -1,0 +1,8 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price
+1001,2023-01-15,Electronics,Laptop,2,1200
+1002,2023-01-16,Office Supplies,Pen Set,10,15
+1003,2023-01-16,Electronics,Mouse,5,25
+1004,2023-01-17,Home Goods,Coffee Maker,1,80
+1005,2023-01-18,Office Supplies,Notebook,20,5
+1006,2023-01-18,Electronics,Laptop,1,1250
+1007,2023-01-19,Home Goods,Blender,2,50
